@@ -14,7 +14,7 @@ Visitor count<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='linux' title='linux' width='45' height='45' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt='ubuntu' title='ubuntu' width='45' height='45' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt='git' title='git' width='45' height='45' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt='github' title='github' width='45' height='45' />
+<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt='github' title='github' width='45' height='45' class="filter-green"/>
 <img src="https://img.freepik.com/premium-vector/blue-circuit-board-circular-shape_501557-629.jpg?w=2000" alt='circuit design' title='circuit design' width='45' height='45' />
 </p>
           
