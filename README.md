@@ -5,6 +5,7 @@
 Visitor count<br>
 <img src="https://profile-counter.glitch.me/Babaganoush07/count.svg" />
 
+[comment]: <> (https://devicon.dev/)
 <p>Some of the stuff I'm learning</p>
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt='vscode' title='vscode' width='45' height='45' />
@@ -14,6 +15,7 @@ Visitor count<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='linux' title='linux' width='45' height='45' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt='ubuntu' title='ubuntu' width='45' height='45' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt='git' title='git' width='45' height='45' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt='html' title='git' width='45' height='45'/>
 <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt='github' title='github' width='45' height='45' class="filter-green"/>
 <img src="https://img.freepik.com/premium-vector/blue-circuit-board-circular-shape_501557-629.jpg?w=2000" alt='circuit design' title='circuit design' width='45' height='45' />
 </p>
